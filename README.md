@@ -1,70 +1,43 @@
-# Getting Started with Create React App
+# ComicSpot
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to ComicSpot! This is a React-based single-page application (SPA) designed for comic book enthusiasts. With ComicSpot, you can explore the top-ranked comic books, manage your personal favorites list, and discover new comics to add to your collection.
 
-## Available Scripts
+## Purpose of the App
 
-In the project directory, you can run:
+ComicSpot serves as a hub for comic book collectors and fans, providing a curated list of top-ranked comics, a personalized favorites list, and an explore section to discover new stories. The app allows users to interact with comic data, add favorites, and view detailed information about each comic.
+
+## Features
+
+	•	Top Ranked Comics: View a list of the highest-ranked comics.
+	•	Favorites List: Manage a personal collection of your favorite comics.
+	•	Explore New Comics: Discover new comics to add to your collection.
+
+## Welcome User
+
+Thank you for using ComicSpot! Whether you’re a seasoned comic book collector or just starting your journey, this app is designed to enhance your comic book experience. Dive into the world of graphic novels, explore new stories, and keep track of your all-time favorites!
+
+## Getting Started
+
+To get ComicSpot up and running on your local machine, follow these steps:
+
+Run this command in your terminal to install dependencies:
+
+### `npm install`
+
+Run this next to start the JSON server:
+
+### `npm run server`
+
+This will watch the db.json file and run the server on http://localhost:7000.
+
+Now run this in a new terminal window to start the react server:
 
 ### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+This will start the React development server, and the app will automatically open in your default web browser at http://localhost:4000.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Usage
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+	•	Ranking Page: The default landing page that shows the top-ranked comics.
+	•	Favorites Page: Accessible via the nav bar, where you can manage your favorite comics.
+	•	Explore Page: Discover new comics that you may not have encountered before.
