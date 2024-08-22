@@ -1,1 +1,267 @@
-{}
+{
+  "rankingList": [
+    {
+      "name": "Watchmen by Alan Moore and Dave Gibbons",
+      "volume_id": "4050-1234",
+      "publisher": "DC Comics",
+      "description": "A critical and commercial success, Watchmen remains one of the most celebrated works in the comic medium.",
+      "image_url": "https://static.dc.com/dc/files/default_images/19084_400x600.jpg"
+    },
+    {
+      "name": "Maus by Art Spiegelman",
+      "volume_id": "4050-5678",
+      "publisher": "Pantheon Books",
+      "description": "A Pulitzer Prize-winning graphic novel that narrates the horrors of the Holocaust through the perspective of anthropomorphic characters.",
+      "image_url": "https://m.media-amazon.com/images/I/81rV+xVfJAL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "name": "Batman: The Dark Knight Returns by Frank Miller",
+      "volume_id": "4050-2345",
+      "publisher": "DC Comics",
+      "description": "A groundbreaking comic that redefined Batman's mythos, presenting an older, darker version of the character.",
+      "image_url": "https://m.media-amazon.com/images/I/71TfU3GnfML._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "name": "V for Vendetta by Alan Moore and David Lloyd",
+      "volume_id": "4050-6789",
+      "publisher": "Vertigo",
+      "description": "A dystopian political thriller set in a near-future Britain governed by a fascist regime.",
+      "image_url": "https://m.media-amazon.com/images/I/612jURJ-GGL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "name": "The Walking Dead (Series) by Robert Kirkman",
+      "volume_id": "4050-8901",
+      "publisher": "Image Comics",
+      "description": "A long-running series that explores the human condition in a world overrun by zombies.",
+      "image_url": "https://m.media-amazon.com/images/I/81E1DCPTh3L._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "name": "Bone by Jeff Smith",
+      "volume_id": "4050-3456",
+      "publisher": "Cartoon Books",
+      "description": "A whimsical, yet epic, story blending humor, adventure, and mythology.",
+      "image_url": "https://m.media-amazon.com/images/I/51K2-fwKmYL.jpg"
+    },
+    {
+      "name": "The Sandman by Neil Gaiman",
+      "volume_id": "4050-4567",
+      "publisher": "Vertigo",
+      "description": "A genre-defining series that blends mythology, history, and fiction.",
+      "image_url": "https://static.dc.com/dc/files/default_images/abs_sandman_v1_5bdb695f4bf592.35400757.jpg"
+    },
+    {
+      "name": "Persepolis by Marjane Satrapi",
+      "volume_id": "4050-5678",
+      "publisher": "Pantheon Books",
+      "description": "A poignant autobiography in graphic novel form, detailing the author's childhood in Iran during and after the Islamic Revolution.",
+      "image_url": "https://images.penguinrandomhouse.com/cover/9780593701058"
+    },
+    {
+      "name": "The Killing Joke by Alan Moore and Brian Bolland",
+      "volume_id": "4050-6789",
+      "publisher": "DC Comics",
+      "description": "A definitive Joker story that delves into the psyche of Batman's greatest nemesis.",
+      "image_url": "https://m.media-amazon.com/images/I/91OjBx3hSNL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "name": "Scott Pilgrim (Series) by Bryan Lee O'Malley",
+      "volume_id": "4050-7890",
+      "publisher": "Oni Press",
+      "description": "A series blending humor, romance, and video game references, following the adventures of Scott Pilgrim as he battles his girlfriend's evil exes.",
+      "image_url": "https://m.media-amazon.com/images/I/71iPLgUFlmL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "name": "Y: The Last Man by Brian K. Vaughan and Pia Guerra",
+      "volume_id": "4050-8901",
+      "publisher": "Vertigo",
+      "description": "A post-apocalyptic story where a young man and his pet monkey may be the last male survivors on Earth.",
+      "image_url": "https://m.media-amazon.com/images/I/71lBTGxPOOL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "name": "300 by Frank Miller",
+      "volume_id": "4050-9012",
+      "publisher": "Dark Horse Comics",
+      "description": "A visually stunning retelling of the Battle of Thermopylae, focusing on the bravery of 300 Spartan warriors.",
+      "image_url": "https://comicvine.gamespot.com/a/uploads/scale_small/0/4/42669-6811-48793-1-300.jpg"
+    }
+  ],
+  "favoritesList": [
+    {
+      "name": "Civil War by Mark Millar and Steve McNiven",
+      "volume_id": "4050-34567",
+      "publisher": "Marvel Comics",
+      "description": "A pivotal crossover event that pits superhero against superhero in a battle over government regulation.",
+      "image_url": "https://m.media-amazon.com/images/I/8178RfFOJSL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "name": "Secret Wars by Jonathon Hickman and Esad Ribic",
+      "volume_id": "4050-45678",
+      "publisher": "Marvel Comics",
+      "description": "A universe-spanning event that redefines the Marvel Universe with new alliances, enemies, and a struggle for power.",
+      "image_url": "https://cdn.marvel.com/u/prod/marvel/i/mg/c/70/5cb736a3cdd49/clean.jpg"
+    },
+    {
+      "name": "Silver Surfer: Requiem by J. Michael Straczynski and Esad Ribic",
+      "volume_id": "4050-56789",
+      "publisher": "Marvel Comics",
+      "description": "A poignant tale reflecting on the life and legacy of the Silver Surfer as he faces his impending demise.",
+      "image_url": "https://cdn.marvel.com/u/prod/marvel/i/mg/2/b0/5a134b41f3930/clean.jpg"
+    },
+    {
+      "name": "Silver Surfer: Parable by Stan Lee and Jean Giraud Moebius",
+      "volume_id": "4050-67890",
+      "publisher": "Marvel Comics",
+      "description": "A cosmic story exploring the philosophical themes of power, faith, and heroism.",
+      "image_url": "https://m.media-amazon.com/images/I/812xfwzQUWL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "name": "Thanos Quest by Jim Starlin and Ron Lim",
+      "volume_id": "4050-78901",
+      "publisher": "Marvel Comics",
+      "description": "The story of Thanos's journey to collect the Infinity Gems and achieve ultimate power.",
+      "image_url": "https://m.media-amazon.com/images/I/A1gCdLP8buL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "name": "Truth: Red, White & Black by Robert Morales and Kyle Baker",
+      "volume_id": "4050-89012",
+      "publisher": "Marvel Comics",
+      "description": "A retelling of the Captain America origin story with a focus on the African-American super-soldiers who were part of the program.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/en/a/af/Truth_Red_White_Black.png"
+    },
+    {
+      "name": "Guardians of the Galaxy (2008) by Dan Abnett and Andy Lanning",
+      "volume_id": "4050-90123",
+      "publisher": "Marvel Comics",
+      "description": "The formation of the modern Guardians of the Galaxy team, blending humor and high-stakes cosmic adventures.",
+      "image_url": "https://cdn.marvel.com/u/prod/marvel/i/mg/4/30/6489ddb084179/clean.jpg"
+    },
+    {
+      "name": "X-Men: Grand Design by Ed Piskor",
+      "volume_id": "4050-12345",
+      "publisher": "Marvel Comics",
+      "description": "A retelling of the X-Men history, blending art and storytelling in a unique, chronological narrative.",
+      "image_url": "https://m.media-amazon.com/images/I/71Vvfb+xDtL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "name": "The Humans by Keenan Marshall Keller and Tom Neely",
+      "volume_id": "4050-23456",
+      "publisher": "Image Comics",
+      "description": "A gritty, raw series set in a world where humans and apes co-exist in a 1970s motorcycle gang setting.",
+      "image_url": "https://cdn.imagecomics.com/assets/i/releases/19928/the-humans-vol-1_56fee2bbf0.jpg"
+    },
+    {
+      "name": "Marvels by Kurt Busiek and Alex Ross",
+      "volume_id": "4050-34567",
+      "publisher": "Marvel Comics",
+      "description": "A visually stunning series that explores the Marvel Universe from the perspective of an ordinary man living among gods.",
+      "image_url": "https://d1466nnw0ex81e.cloudfront.net/n_iv/600/860775.jpg"
+    },
+    {
+      "name": "Hip-Hop Family Tree by Ed Piskor",
+      "volume_id": "4050-45678",
+      "publisher": "Fantagraphics",
+      "description": "A comprehensive, artistic look at the history of hip-hop, capturing the rise of the genre through detailed, comic-book storytelling.",
+      "image_url": "https://m.media-amazon.com/images/I/712qEOl3zjL.jpg"
+    },
+    {
+      "name": "Space Riders by Alexis Ziritt and Fabian Rangel Jr.",
+      "volume_id": "4050-56789",
+      "publisher": "Black Mask Studios",
+      "description": "A psychedelic space adventure that follows the misfit crew of the Skullship Santa Muerte.",
+      "image_url": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781628751093/space-riders-vol-1-this-vengeful-universe-9781628751093_hr.jpg"
+    },
+    {
+      "name": "Thor: God of Thunder (2012) by Jason Aaron and Esad Ribic",
+      "volume_id": "4050-67890",
+      "publisher": "Marvel Comics",
+      "description": "A critically acclaimed run that explores the epic battles of Thor across time, facing the God Butcher and other cosmic threats.",
+      "image_url": "https://m.media-amazon.com/images/I/51qAh5rvQSL.jpg"
+    }
+  ],
+  "exploreList": [
+    {
+      "name": "Saga by Brian K. Vaughan and Fiona Staples",
+      "volume_id": "4050-56789",
+      "publisher": "Image Comics",
+      "description": "A sweeping, epic space opera that explores love, family, and war across different worlds.",
+      "image_url": "https://m.media-amazon.com/images/I/71cVDK9BRaL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "name": "The Vision by Tom King and Gabriel Hernandez Walta",
+      "volume_id": "4050-67890",
+      "publisher": "Marvel Comics",
+      "description": "A unique story of the Vision attempting to build a family and live a normal life, only for it to unravel in unexpected ways.",
+      "image_url": "https://cdn.marvel.com/u/prod/marvel/i/mg/6/30/5637ada325f34/clean.jpg"
+    },
+    {
+      "name": "Locke & Key by Joe Hill and Gabriel Rodriguez",
+      "volume_id": "4050-78901",
+      "publisher": "IDW Publishing",
+      "description": "A dark, imaginative series that blends horror, fantasy, and mystery as the Locke family discovers keys with supernatural powers.",
+      "image_url": "https://m.media-amazon.com/images/I/61U14+rQ27L._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "name": "Daytripper by Fabio Moon and Gabriel Ba",
+      "volume_id": "4050-89012",
+      "publisher": "Vertigo",
+      "description": "A beautiful, poignant exploration of life, death, and all the moments in between, set across different possible life paths of one man.",
+      "image_url": "https://m.media-amazon.com/images/I/51j9xxZZmfL.jpg"
+    },
+    {
+      "name": "Hawkeye by Matt Fraction and David Aja",
+      "volume_id": "4050-90123",
+      "publisher": "Marvel Comics",
+      "description": "A grounded, street-level look at Clint Barton, the Avenger known as Hawkeye, and his day-to-day life in New York.",
+      "image_url": "https://m.media-amazon.com/images/I/81P2Qa0lZXL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "name": "Strangers in Paradise by Terry Moore",
+      "volume_id": "4050-12345",
+      "publisher": "Abstract Studio",
+      "description": "A long-running, critically acclaimed series that blends romance, crime, and drama in a story about love and identity.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/en/6/69/Strangers_in_Paradise_Pocket_Book_1_Cover_Art.jpg"
+    },
+    {
+      "name": "Monstress by Marjorie Liu and Sana Takeda",
+      "volume_id": "4050-23456",
+      "publisher": "Image Comics",
+      "description": "A dark, richly detailed fantasy epic set in a world of magic, monsters, and ancient secrets.",
+      "image_url": "https://m.media-amazon.com/images/I/81bGs636lzL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "name": "East of West by Jonathan Hickman and Nick Dragotta",
+      "volume_id": "4050-34567",
+      "publisher": "Image Comics",
+      "description": "A dystopian sci-fi western that explores an alternate history where the Four Horsemen of the Apocalypse attempt to bring about the end of the world.",
+      "image_url": "https://m.media-amazon.com/images/I/61vHjv3yOkL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "name": "Hellboy by Mike Mignola",
+      "volume_id": "4050-45678",
+      "publisher": "Dark Horse Comics",
+      "description": "A supernatural horror series that follows Hellboy, a demon summoned to Earth as a child, who fights against dark forces while grappling with his own destiny.",
+      "image_url": "https://m.media-amazon.com/images/I/612645-lZcL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "name": "Superman: Red Son by Mark Millar and Dave Johnson",
+      "volume_id": "4050-56789",
+      "publisher": "DC Comics",
+      "description": "An alternate universe story where Superman's rocket lands in the Soviet Union instead of Kansas, leading to a very different world history.",
+      "image_url": "https://m.media-amazon.com/images/M/MV5BMDg3NDc5YzEtOTk1My00ZTZhLTlmNjctZTJlNjYzZjE0MTI1XkEyXkFqcGdeQXVyNTgyNTA4MjM@._V1_.jpg"
+    },
+    {
+      "name": "The Sculptor by Scott McCloud",
+      "volume_id": "4050-67890",
+      "publisher": "First Second",
+      "description": "A touching, philosophical graphic novel about a sculptor who makes a deal with Death for 200 days of life in exchange for the ability to sculpt anything he can imagine.",
+      "image_url": "https://m.media-amazon.com/images/I/81D1NwMeRjL.jpg"
+    },
+    {
+      "name": "The Saga of the Swamp Thing by Alan Moore",
+      "volume_id": "4050-78901",
+      "publisher": "DC Comics",
+      "description": "A redefining run on Swamp Thing that blends horror, environmental themes, and complex character development.",
+      "image_url": "https://m.media-amazon.com/images/I/71ld0wZusKL._AC_UF1000,1000_QL80_.jpg"
+    }
+  ]
+}
