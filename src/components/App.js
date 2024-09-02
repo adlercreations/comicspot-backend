@@ -15,17 +15,17 @@ function App() {
   const [exploreComics, setExploreComics] = useState([]);
 
   useEffect(() => {
-    fetch('http://localhost:7000/rankingList')
+    fetch('http://localhost:7001/rankingList')
       .then(response => response.json())
       .then(data => setRankedComics(data))
       .catch(error => console.error('Error fetching ranked comics:', error));
 
-    fetch('http://localhost:7000/favoritesList')
+    fetch('http://localhost:7001/favoritesList')
       .then(response => response.json())
       .then(data => setFavoriteComics(data))
       .catch(error => console.error('Error fetching favorite comics:', error));
     
-    fetch('http://localhost:7000/exploreList')
+    fetch('http://localhost:7001/exploreList')
       .then(response => response.json())
       .then(data => setExploreComics(data))
       .catch(error => console.error('Error fetching ranked comics:', error));

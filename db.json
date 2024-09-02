@@ -99,11 +99,11 @@
   ],
   "favoritesList": [
     {
-      "id": "c27b",
-      "name": "Thor: God of Thunder (2012) By jason aaron and esad ribic",
-      "publisher": "Marvel Comics",
-      "image_url": "https://m.media-amazon.com/images/I/51qAh5rvQSL.jpg",
-      "description": "a critically acclaimed run that explores the epic battles of thors across time, facing the god butcher and other cosmic threats."
+      "id": "9b48",
+      "name": "silver surfer: requiem by j. michael straczynski and esad ribic",
+      "publisher": "marvel comics",
+      "image_url": "https://cdn.marvel.com/u/prod/marvel/i/mg/2/b0/5a134b41f3930/clean.jpg",
+      "description": "a poignant tale reflecting on the life and legacy of the silver surfer as he faces his impending demise."
     },
     {
       "id": "17a4",
@@ -169,13 +169,6 @@
       "description": "a cosmic story exploring the philosophical themes of power, faith, and heroism."
     },
     {
-      "id": "9b48",
-      "name": "silver surfer: requiem by j. michael straczynski and esad ribic",
-      "publisher": "marvel comics",
-      "image_url": "https://cdn.marvel.com/u/prod/marvel/i/mg/2/b0/5a134b41f3930/clean.jpg",
-      "description": "a poignant tale reflecting on the life and legacy of the silver surfer as he faces his impending demise."
-    },
-    {
       "id": "d692",
       "name": "secret wars by jonathon hickman and esad ribic",
       "publisher": "marvel comics",
@@ -188,6 +181,13 @@
       "publisher": "marvel comics",
       "image_url": "https://m.media-amazon.com/images/I/8178RfFOJSL._AC_UF1000,1000_QL80_.jpg",
       "description": "a pivotal crossover event that pits superhero against superhero in a battle over government regulation."
+    },
+    {
+      "id": "c27b",
+      "name": "Thor: God of Thunder (2012) By jason aaron and esad ribic",
+      "publisher": "Marvel Comics",
+      "image_url": "https://m.media-amazon.com/images/I/51qAh5rvQSL.jpg",
+      "description": "a critically acclaimed run that explores the epic battles of thors across time, facing the god butcher and other cosmic threats."
     }
   ],
   "exploreList": [
